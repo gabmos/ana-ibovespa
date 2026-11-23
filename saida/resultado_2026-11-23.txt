@@ -1,0 +1,74 @@
+══════════════════════════════════════════════════════════════════════════════
+  IBOVESPA — RESULTADO DA PREVISÃO DE FECHAMENTO
+  Segunda-feira, 23 de novembro de 2026   (relatório gerado em 23/11/2026 às 15:36)
+  Situação do pregão: EM ANDAMENTO — o fechamento ainda não aconteceu
+══════════════════════════════════════════════════════════════════════════════
+
+  164.372 pontos, com faixa de 80% entre 163.734 e 164.965
+  (fechamento de 23/11; previsão feita às 15h)
+
+PREVISÕES POR MOMENTO (as mesmas do gráfico)
+------------------------------------------------------------------------------
+  Momento                                Previsão  Faixa provável          Real
+  Início do dia (23/11, 11h)              164.949  163.626 a 166.231    165.193
+  Final do dia (23/11, 18h)               164.372  163.734 a 164.965          —
+  Início do próximo pregão (24/11, 11h)   164.372  162.602 a 166.348          —
+  Já aconteceu: previsão da manhã e valor real. Ainda não: a previsão mais recente.
+  Início do dia = 11h, depois da 1ª hora de pregão. — = ainda não há valor real.
+
+PREVISÃO PRINCIPAL — feita às 10h (diária)  ← visão padrão
+  Fechamento previsto ........ 165.014 pontos
+  Variação esperada .......... -0,82% em relação ao fechamento anterior (166.376)
+  Faixa provável (80%) ....... entre 163.086 e 167.264
+  Chance de fechar em alta ... 17%
+  Preço do IBOV no momento ... 166.376  (antes da abertura = fechamento anterior)
+
+  O modelo espera que o IBOVESPA feche em queda (-0,82%); o cenário de queda é
+  o mais provável (83% de chance).
+  Historicamente, o fechamento real caiu dentro da faixa em 78% dos dias.
+
+PREVISÃO MAIS RECENTE — feita às 15h (com mais informação do dia)
+  Fechamento previsto ........ 164.372 pontos
+  Variação esperada .......... -1,20% em relação ao fechamento anterior (166.376)
+  Faixa provável (80%) ....... entre 163.734 e 164.965
+  Chance de fechar em alta ... 1%
+  Preço do IBOV no momento ... 164.372
+
+  O modelo espera que o IBOVESPA feche em queda (-1,20%); o cenário de queda é
+  o mais provável (99% de chance).
+  Historicamente, o fechamento real caiu dentro da faixa em 77% dos dias.
+
+COMO A PREVISÃO EVOLUIU AO LONGO DO DIA
+------------------------------------------------------------------------------
+  Horário        IBOV no momento  Fech. previsto  Chance alta  Erro típico*
+  Véspera, 20h           166.376         166.376         43%         ±0,84%
+  10h (diária)           166.376         165.014         17%         ±0,73%   ◄
+  11h                    165.193         165.193         16%         ±0,52%
+  12h                    165.634         165.634         17%         ±0,43%
+  13h                    165.276         165.276         11%         ±0,35%
+  14h                    165.083         165.083          4%         ±0,29%
+  15h                    164.372         164.372          1%         ±0,24%
+  * Erro típico = erro médio histórico desse horário (fora da amostra).
+
+QUANTO CONFIAR NESTE HORÁRIO (histórico fora da amostra)
+------------------------------------------------------------------------------
+  Em 472 pregões testados, a previsão das 10h (diária) errou em média 0,73%
+  — um pouco melhor que o palpite ingênuo "fecha no preço atual" (0,84%).
+  Acertou a direção (alta/baixa) em 64% dos dias e o fechamento ficou
+  dentro da faixa de 80% em 78% dos dias.
+
+EMBASAMENTO DA PREVISÃO
+------------------------------------------------------------------------------
+  1. Ponto de partida
+     IBOV em 164.372 pontos.
+  2. Previsão central
+     É o último preço conhecido no horário da previsão. Testamos centenas de
+     modelos e nenhum errou menos que isso de forma consistente neste horário.
+  3. Faixa de 80%
+     Percentis 10% e 90% dos 120 erros mais recentes do próprio modelo.
+  4. Chance de alta
+     Fração desses erros que deixaria o fechamento acima do anterior.
+  5. Volatilidade
+     Recurso não analisado na previsão.
+
+Aviso: modelo estatístico para estudo. Não é recomendação de investimento.

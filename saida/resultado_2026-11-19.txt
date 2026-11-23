@@ -1,0 +1,73 @@
+══════════════════════════════════════════════════════════════════════════════
+  IBOVESPA — RESULTADO DA PREVISÃO DE FECHAMENTO
+  Quinta-feira, 19 de novembro de 2026   (relatório gerado em 23/11/2026 às 15:36)
+  Situação do pregão: ENCERRADO — fechamento oficial conhecido
+══════════════════════════════════════════════════════════════════════════════
+
+  166.082 pontos, com faixa de 80% entre 165.635 e 166.528
+  (fechamento de 19/11; previsão feita às 16h)
+
+PREVISÕES POR MOMENTO (as mesmas do gráfico)
+------------------------------------------------------------------------------
+  Momento                                Previsão  Faixa provável          Real
+  Início do dia (19/11, 11h)              167.389  166.047 a 168.691    167.987
+  19/11 às 15h30                          167.392  165.451 a 169.309    166.272  ◄
+  Final do dia (19/11, 18h)               167.383  165.428 a 169.665    166.376
+  Início do próximo pregão (23/11, 11h)   166.082  164.539 a 168.167    165.193
+  Já aconteceu: previsão da manhã e valor real. Ainda não: a previsão mais recente.
+  Início do dia = 11h, depois da 1ª hora de pregão. — = ainda não há valor real.
+
+PREVISÃO PRINCIPAL — feita às 10h (diária)  ← visão padrão
+  Fechamento previsto ........ 167.383 pontos
+  Variação esperada .......... -0,09% em relação ao fechamento anterior (167.538)
+  Faixa provável (80%) ....... entre 165.428 e 169.665
+  Chance de fechar em alta ... 45%
+  Preço do IBOV no momento ... 167.538  (antes da abertura = fechamento anterior)
+
+  O modelo espera que o IBOVESPA feche praticamente estável (-0,09%); a chance
+  de alta ou de queda é praticamente a mesma (cara ou coroa).
+  Historicamente, o fechamento real caiu dentro da faixa em 78% dos dias.
+
+COMO A PREVISÃO EVOLUIU AO LONGO DO DIA
+------------------------------------------------------------------------------
+  Horário        IBOV no momento  Fech. previsto  Chance alta   Erro real
+  Véspera, 20h           167.538         167.538         43%       +0,70%
+  10h (diária)           167.538         167.383         45%       +0,61%   ◄
+  11h                    167.987         167.987         63%       +0,97%
+  12h                    167.886         167.886         61%       +0,91%
+  13h                    166.798         166.798         15%       +0,25%
+  14h                    166.296         166.296          4%       -0,05%
+  15h                    166.663         166.663          7%       +0,17%
+  16h                    166.082         166.082          2%       -0,18%
+  Erro real: + = a previsão ficou acima do fechamento; - = ficou abaixo.
+
+RESULTADO DO DIA
+------------------------------------------------------------------------------
+  Fechamento real ............ 166.376 pontos (-0,69% no dia)
+  Previsão das 10h (diária) .. 167.383 → errou por 1.007 pontos (0,61%)
+  Ficou dentro da faixa 80%? . SIM (165.428 a 169.665)
+  Acertou a direção? ......... SIM (previu queda, foi queda)
+  Previsão mais próxima ...... a das 14h
+
+QUANTO CONFIAR NESTE HORÁRIO (histórico fora da amostra)
+------------------------------------------------------------------------------
+  Em 472 pregões testados, a previsão das 10h (diária) errou em média 0,73%
+  — um pouco melhor que o palpite ingênuo "fecha no preço atual" (0,84%).
+  Acertou a direção (alta/baixa) em 64% dos dias e o fechamento ficou
+  dentro da faixa de 80% em 78% dos dias.
+
+EMBASAMENTO DA PREVISÃO
+------------------------------------------------------------------------------
+  1. Ponto de partida
+     IBOV em 166.082 pontos.
+  2. Previsão central
+     É o último preço conhecido no horário da previsão. Testamos centenas de
+     modelos e nenhum errou menos que isso de forma consistente neste horário.
+  3. Faixa de 80%
+     Percentis 10% e 90% dos 120 erros mais recentes do próprio modelo.
+  4. Chance de alta
+     Fração desses erros que deixaria o fechamento acima do anterior.
+  5. Volatilidade
+     Recurso não analisado na previsão.
+
+Aviso: modelo estatístico para estudo. Não é recomendação de investimento.

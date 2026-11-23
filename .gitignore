@@ -1,0 +1,8 @@
+# Ambiente do Python (recriado com: pip install -r requirements.txt)
+.venv/
+# Caches gerados automaticamente
+__pycache__/
+*.pyc
+.pytest_cache/
+# Arquivos do macOS
+.DS_Store
