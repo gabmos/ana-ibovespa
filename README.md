@@ -1,20 +1,30 @@
 # Previsão do IBOVESPA
 
-Ana, aqui está como o projeto funciona: como rodar, de onde vêm os dados, como o modelo prevê, o
+Aqui está como o projeto funciona: como rodar, de onde vêm os dados, como o modelo prevê, o
 que fica salvo, como é testado e quanto dá para confiar. Espero conseguir te ajudar :)
 
-1. [O que ele prevê](#1-o-que-ele-prevê)
-2. [Como rodar](#2-como-rodar)
-3. [Como ler o resultado](#3-como-ler-o-resultado)
-4. [De onde vêm os dados](#4-de-onde-vêm-os-dados)
-5. [Como o modelo prevê](#5-como-o-modelo-prevê)
-6. [O que fica salvo](#6-o-que-fica-salvo)
-7. [Como é testado](#7-como-é-testado)
-8. [Quanto dá para confiar](#8-quanto-dá-para-confiar)
-9. [Análise rápida](#9-análise-rápida)
-10. [Arquivos do projeto](#10-arquivos-do-projeto)
-11. [Como modificar](#11-como-modificar)
-12. [Dúvidas comuns](#12-dúvidas-comuns)
+- [Previsão do IBOVESPA](#previsão-do-ibovespa)
+  - [1. O que ele prevê](#1-o-que-ele-prevê)
+  - [2. Como rodar](#2-como-rodar)
+  - [3. Como ler o resultado](#3-como-ler-o-resultado)
+    - [Gráfico](#gráfico)
+    - [Texto](#texto)
+  - [4. De onde vêm os dados](#4-de-onde-vêm-os-dados)
+  - [5. Como o modelo prevê](#5-como-o-modelo-prevê)
+    - [Previsão das 10h](#previsão-das-10h)
+    - [Véspera e das 11h em diante](#véspera-e-das-11h-em-diante)
+    - [Faixa e chance de alta](#faixa-e-chance-de-alta)
+    - [Outros momentos](#outros-momentos)
+    - [O que não entra](#o-que-não-entra)
+  - [6. O que fica salvo](#6-o-que-fica-salvo)
+  - [7. Como é testado](#7-como-é-testado)
+    - [Qualidade da previsão](#qualidade-da-previsão)
+    - [Funcionamento do programa](#funcionamento-do-programa)
+  - [8. Quanto dá para confiar](#8-quanto-dá-para-confiar)
+  - [9. Análise rápida](#9-análise-rápida)
+  - [10. Arquivos do projeto](#10-arquivos-do-projeto)
+  - [11. Como modificar](#11-como-modificar)
+  - [12. Dúvidas comuns](#12-dúvidas-comuns)
 
 ---
 
